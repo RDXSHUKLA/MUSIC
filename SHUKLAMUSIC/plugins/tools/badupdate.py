@@ -21,7 +21,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC/fork")
+                        "🗡️ 𝐕1 𝐌ᴜsɪᴄ  𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC2.0/fork")
                 ],
                 [
                     InlineKeyboardButton(
@@ -29,7 +29,7 @@ async def help(client: Client, message: Message):
                 ],
                  [
                     InlineKeyboardButton(
-                        "🗡️ 𝐔sᴇʀʙᴏᴛ 𝐑ᴇᴘᴏ 🗡️", url=f"https://t.me/Shukla_op_clone1bot")
+                        "🗡️ 𝐕2 𝐌ᴜsɪᴄ 𝐑ᴇᴘᴏ 🗡️", url=f"https://github.com/itzshukla/STRANGER-MUSIC/fork")
                 ],
                  [
                     InlineKeyboardButton(
