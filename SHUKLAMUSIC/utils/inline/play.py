@@ -36,7 +36,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/mastiwithfriendsx",
+              url="https://t.me/mastiwithfriendsxd",
             ),
         ],
     ]
@@ -97,7 +97,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/mastiwithfriendsx",
+              url="https://t.me/mastiwithfriendsxd",
             ),
         ],
     ]
@@ -133,7 +133,7 @@ def stream_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/mastiwithfriendsx",
+              url="https://t.me/mastiwithfriendsxd",
             ),
         ],
     ]
@@ -262,7 +262,7 @@ def queue_markup(_, videoid, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/mastiwithfriendsx",
+              url="https://t.me/mastiwithfriendsxd",
             ),
         ],
     ]
@@ -305,7 +305,7 @@ def speed_markup(_, chat_id):
         [
             InlineKeyboardButton(
                 text=f"⛦ ᴊᴏɪɴ ⛦",
-              url="https://t.me/mastiwithfriendsx",
+              url="https://t.me/mastiwithfriendsxd",
             ),
         ],
     ]
