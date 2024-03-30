@@ -64,8 +64,8 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("SHIVANSH474")
                 await self.one.join_chat("SHIVANSH474")
-                await self.one.join_chat("MASTIWITHFRIENDSX")
-                await self.one.join_chat("MASTIWITHFRIENDSX")
+                await self.one.join_chat("MASTIWITHFRIENDSXD")
+                await self.one.join_chat("STRANGERXWORLD")
                 await self.one.join_chat("strangerbotslogs")
             except:
                 pass
@@ -96,8 +96,8 @@ class Userbot(Client):
             try:
                 await self.two.join_chat("SHIVANSH474")
                 await self.two.join_chat("SHIVANSH474")
-                await self.two.join_chat("MASTIWITHFRIENDSX")
-                await self.two.join_chat("MASTIWITHFRIENDSX")
+                await self.two.join_chat("MASTIWITHFRIENDSXD")
+                await self.two.join_chat("STRANGERXWORLD")
             except:
                 pass
             assistants.append(2)
@@ -119,8 +119,8 @@ class Userbot(Client):
             try:
                 await self.three.join_chat("SHIVANSH474")
                 await self.three.join_chat("SHIVANSH474")
-                await self.three.join_chat("MASTIWITHFRIENDSX")
-                await self.three.join_chat("MASTIWITHFRIENDSX")
+                await self.three.join_chat("MASTIWITHFRIENDSXD")
+                await self.three.join_chat("STRANGERXWORLD")
             except:
                 pass
             assistants.append(3)
@@ -142,8 +142,8 @@ class Userbot(Client):
             try:
                 await self.four.join_chat("SHIVANSH474")
                 await self.four.join_chat("SHIVANSH474")
-                await self.four.join_chat("MASTIWITHFRIENDSX")
-                await self.four.join_chat("MASTIWITHFRIENDSX")
+                await self.four.join_chat("MASTIWITHFRIENDSXD")
+                await self.four.join_chat("STRANGERXWORLD")
             except:
                 pass
             assistants.append(4)
@@ -164,8 +164,8 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("SHIVANSH474")
-                await self.five.join_chat("SHIVANSH474")
-                await self.five.join_chat("MASTIWITHFRIENDSX")
+                await self.five.join_chat("STRANGERXWORLD")
+                await self.five.join_chat("MASTIWITHFRIENDSXD")
                 await self.five.join_chat("strangerbotslogs")
             except:
                 pass
