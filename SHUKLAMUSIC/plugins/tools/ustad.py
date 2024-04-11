@@ -21,7 +21,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
                 ],
                 [InlineKeyboardButton(
                         "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
@@ -41,7 +41,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
                 ],
                 [InlineKeyboardButton(
                         "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
@@ -61,7 +61,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSH39")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SHIVANSHDEVS")
                 ],
                 [InlineKeyboardButton(
                         "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ITSZ_SHIVANSH")
